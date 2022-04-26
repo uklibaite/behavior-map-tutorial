@@ -1,7 +1,13 @@
 # behavior-map-tutorial
 A tutorial and code for running unsupervised behavioral analysis on various animal pose data
+Ugne Klibaite + Kanishk Jain for the CAJAL Quantitative Approaches to Behavior Course
+22 May - 11 June 2022, Champalimaud Centre for the Unknown, Lisbon, Portugal
 
-You have built a rig for collecting recordings of animal behavior of interest, tracked centroids of lone and multiple animals, used deep networks to label limb and body parts, and have learned supervised and unsupervised analysis techniques to apply to this data. 
+
+This tutorial should walk you through the process of creating, interpreting, and quantifying behavioral maps in order to describe behavior data. 
+
+At this point in the course, you have built a rig for collecting recordings of animal behavior of interest, tracked centroids of lone and multiple animals, used deep networks to label limb and body parts, and have reviewed supervised and unsupervised analysis techniques to apply to this data. 
+
 
 Let’s get our hands dirty and, starting with some example data, or modify with your own data!
 

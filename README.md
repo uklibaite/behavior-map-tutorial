@@ -7,6 +7,24 @@ Let’s get our hands dirty and, starting with some example data, or modify with
 
 
 
+Where is the starting point? Do you have images, tracked joints, or some other representation of the behavior of one or more animals over time? 
+
+
+Getting the data to an appropriate postural+dynamic representation that is useful for your biological question: compressing the high-dimensional data into a description that captures the variance that you are interested in explaining and characterizing. 
+
+
+
+
+EXAMPLE MOVIES FROM FLIES/MICE/RATS/OTHER?
+
+
+REPRESENTING TIME SERIES
+
+
+
+https://github.com/gordonberman/MotionMapper
+https://github.com/PrincetonUniversity/MouseMotionMapper
+
 
 
 

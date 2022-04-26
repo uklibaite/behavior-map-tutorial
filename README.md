@@ -1,6 +1,8 @@
 # behavior-map-tutorial
 A tutorial and code for running unsupervised behavioral analysis on various animal pose data
+
 Ugne Klibaite + Kanishk Jain for the CAJAL Quantitative Approaches to Behavior Course
+
 22 May - 11 June 2022, Champalimaud Centre for the Unknown, Lisbon, Portugal
 
 
@@ -44,6 +46,7 @@ TRANSITION ANALYSIS
 
 
 https://github.com/gordonberman/MotionMapper
+
 https://github.com/PrincetonUniversity/MouseMotionMapper
 
 

@@ -18,7 +18,22 @@ Getting the data to an appropriate postural+dynamic representation that is usefu
 EXAMPLE MOVIES FROM FLIES/MICE/RATS/OTHER?
 
 
-REPRESENTING TIME SERIES
+PCA/FEATURES
+
+WAVELETS
+
+tSNE/UMAP/KNN/CLUSTERING
+
+CLUSTER ANALYSIS - sampling and characterizing behavioral clusters
+
+INTERPRETATION OF CLUSTER TIME SERIES 
+
+TRANSITION ANALYSIS
+
+
+
+
+
 
 
 

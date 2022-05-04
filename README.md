@@ -29,7 +29,7 @@ For a quick and easy display use Animator functions (see the example for more op
 https://github.com/diegoaldarondo/Animator
 Can you recreate this movie?
 
-![](docs/ExampleMovie.mp4)
+![](ExampleMovie.gif)
 
 
 

@@ -27,15 +27,15 @@ Build your own skeleton and alter the color map if you'd prefer.
 
 For a quick and easy display use Animator functions (see the example for more options) 
 https://github.com/diegoaldarondo/Animator
-Can you recreate this movie?
+Can you recreate something like these movies? 
+Here you can see the mouse moving about the open field.
+![](sampleMouse.gif)
+
+Here I display video frames and overlay the marker positions across a subset of frames.
 
 ![](ExampleMovie.gif)
 
 
-
-
-
-EXAMPLE MOVIES FROM FLIES/MICE/RATS/OTHER?
 
 
 PCA/FEATURES

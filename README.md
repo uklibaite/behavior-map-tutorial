@@ -37,8 +37,15 @@ Here I display video frames and overlay the marker positions across a subset of 
 
 
 
-This figure gives a general idea of how we go from body part coordinates to a behavioral map, and then 
-characterize and analyze behavioral clusters
+The following figure gives a general idea of how we go from body part coordinates to a behavioral map, and then 
+characterize and analyze behavioral clusters. 
+
+Follow along with MOUSE_DEMO.m and RAT_DEMO.m for using these techniques for creating behavioral maps.
+MOUSE_DEMO.m contains instructions on creating an embedding and also reembedding into a previously saved emebdding corresponding to (https://molecularautism.biomedcentral.com/articles/10.1186/s13229-022-00492-8). 
+
+RAT_DEMO.m contains instructions for creating an embedding from 3D rat data - along with how to visualize the clusters that result from this embedding. Here you can make movies of samples from each behavior cluster and assign your own labels. 
+
+
 ![](Flowchart.png)
 
 

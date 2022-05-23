@@ -15,6 +15,12 @@ Let’s get our hands dirty and, starting with some example data, or modify with
 
 First, follow along in the collab notebook for a quick tutorial on Motionmapper.py - this will allow you to create a quick embedding from several minutes of LEAP-labeled fly data.
 
+
+
+
+Data and extras for mouse+rat tutorials can be downloaded here:
+https://www.dropbox.com/scl/fo/vpu5ywlyxm3hnomru9yg0/h?dl=0&rlkey=4klpp8b30an2babv1omhavcbf
+
 Once you feel comfortable with the components of this tutorial, continue to the mouse or 3D rat data we provide, or implement this with your own data. 
 
 Where is the starting point? Do you have images, tracked joints, or some other representation of the behavior of one or more animals over time? 

@@ -35,7 +35,7 @@ Here I display video frames and overlay the marker positions across a subset of 
 
 ![](ExampleMovie.gif)
 
-
+![](Flowchart.png)
 
 
 PCA/FEATURES

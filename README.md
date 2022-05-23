@@ -17,10 +17,7 @@ First, follow along in the collab notebook for a quick tutorial on Motionmapper.
 
 
 
-
-Data and extras for mouse+rat tutorials can be downloaded here:
-https://www.dropbox.com/scl/fo/vpu5ywlyxm3hnomru9yg0/h?dl=0&rlkey=4klpp8b30an2babv1omhavcbf
-
+Some basic things to consider before you start:
 Once you feel comfortable with the components of this tutorial, continue to the mouse or 3D rat data we provide, or implement this with your own data. 
 
 Where is the starting point? Do you have images, tracked joints, or some other representation of the behavior of one or more animals over time? 
@@ -28,19 +25,7 @@ Where is the starting point? Do you have images, tracked joints, or some other r
 Getting the data to an appropriate postural+dynamic representation that is useful for your biological question: compressing the high-dimensional data into a description that captures the variance that you are interested in explaining and characterizing. 
 
 
-Since we are supplying you with data, don't take our word for what we're handing over. Inspect it yourself!
-Movie OFT-0060-00.mp4 corresponds to mouse #5 on day #1 - play a segment of movie with the corresponding labels to confirm that tracking is working.
-Build your own skeleton and alter the color map if you'd prefer. 
 
-For a quick and easy display use Animator functions (see the example for more options). This will become very useful if you are intereted in the 3D rat tutorial, and will come in handy for making example movies. 
-https://github.com/diegoaldarondo/Animator
-Can you recreate something like these movies? 
-Here you can see the mouse moving about the open field.
-![](sampleMouse.gif)
-
-Here I display video frames and overlay the marker positions across a subset of frames.
-
-![](ExampleMovie.gif)
 
 
 
@@ -56,7 +41,27 @@ RAT_DEMO.m contains instructions for creating an embedding from 3D rat data - al
 ![](Flowchart.png)
 
 
+Data and extras for mouse+rat tutorials can be downloaded here:
+https://www.dropbox.com/scl/fo/vpu5ywlyxm3hnomru9yg0/h?dl=0&rlkey=4klpp8b30an2babv1omhavcbf
 
+mouse and rat tutorial guides are written in MATLAB - but feel free to use motionmapper.py instead! 
+
+Since we are supplying you with data, don't take our word for what we're handing over. Inspect it yourself!
+Movie OFT-0060-00.mp4 corresponds to mouse #5 on day #1 - play a segment of movie with the corresponding labels to confirm that tracking is working.
+Build your own skeleton and alter the color map if you'd prefer. 
+
+For a quick and easy display use Animator functions (see the example for more options). This will become very useful if you are intereted in the 3D rat tutorial, and will come in handy for making example movies. 
+https://github.com/diegoaldarondo/Animator
+
+
+Here are a few examples of some of what you can find and create in these guided tutorials:
+Can you recreate something like these movies? 
+Here you can see the mouse moving about the open field.
+![](sampleMouse.gif)
+
+Here I display video frames and overlay the marker positions across a subset of frames.
+
+![](ExampleMovie.gif)
 
 
 

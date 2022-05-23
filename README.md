@@ -35,27 +35,20 @@ Here I display video frames and overlay the marker positions across a subset of 
 
 ![](ExampleMovie.gif)
 
+
+
+This figure gives a general idea of how we go from body part coordinates to a behavioral map, and then 
+characterize and analyze behavioral clusters
 ![](Flowchart.png)
 
 
-PCA/FEATURES
-
-WAVELETS
-
-tSNE/UMAP/KNN/CLUSTERING
-
-CLUSTER ANALYSIS - sampling and characterizing behavioral clusters
-
-INTERPRETATION OF CLUSTER TIME SERIES 
-
-TRANSITION ANALYSIS
 
 
 
 
 
-
-
+If you have made it this far, you might be interested in comparing groups, analyzing transitions between behaviors,
+looking at how behavior changes over time, and any other number of properties of behavior. 
 
 https://github.com/gordonberman/MotionMapper
 
